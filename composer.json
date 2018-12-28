@@ -9,6 +9,12 @@
             "email": "geloen.eric@gmail.com"
         }
     ],
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/jfkm69/ivory-json-builder"
+        }
+    ],
     "require": {
         "php": "^5.6|^7.0",
         "egeloen/json-builder": "^2.0|^3.0",
